@@ -29,3 +29,16 @@ Check out the live demo [https://react-quiz-app-5512c.web.app/].
 
 Feel free to explore the code and contribute to its development!
 
+![image](https://github.com/user-attachments/assets/f5787a13-9d27-448b-8e54-a602e3b11fe0)
+- this is an overview of the quiz
+
+![image](https://github.com/user-attachments/assets/692efb6d-75d9-4969-855d-88a8275823a7)
+- this is when the user answers correctly
+
+![image](https://github.com/user-attachments/assets/e7dbc7e5-039b-4064-bb66-550bfd72cb81)
+- this is when the user answers incorrectly
+
+
+
+
+
